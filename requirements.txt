@@ -1,0 +1,7 @@
+fastapi
+jinja2
+mock-alchemy
+pytest
+sqlalchemy
+uvicorn
+yfinance
